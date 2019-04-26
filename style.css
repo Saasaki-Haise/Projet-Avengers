@@ -771,7 +771,7 @@ border: inset 2px grey;
     
 }
 #home-container {
-    background: rgb(8, 8, 8);
+    background: linear-gradient(black, rgb(37, 37, 37));
     height: 3000px;;
 }
 
